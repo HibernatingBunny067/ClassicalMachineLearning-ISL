@@ -9,5 +9,6 @@
 * [x] [Chapter 06](https://www.notion.so/harikesh067/Chapter-06-241a186274a48075a658e7de5ca6081f?source=copy_link) : this chapter was focused on how to make the vanilla models robust with some preprocessing and framing techniques 
 * [x] [Regression Trees](https://www.notion.so/harikesh067/Nonlinear-Regression-Models-Regression-Trees-243a186274a480b0b134c2fc37275c33?source=copy_link): 
 * [x] [Gradient Boosting Trees](https://www.notion.so/harikesh067/Gradient-Boosting-Nonlinear-Models-02-243a186274a480daa00cc959173d75ff?source=copy_link): 
+* [] [Feature Engineering]():
 
 -------
