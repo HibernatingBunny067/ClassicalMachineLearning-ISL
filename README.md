@@ -1,4 +1,4 @@
-# 🗂️ An Introduction to Statistical Learning 
+# 🗂️ An Introduction to Statistical Learning - ISL
 - Documenting everything learned from this book 
 - Notes, Excercises and Projects everything will be uploaded here
 
@@ -9,4 +9,3 @@
 * [x] [Chapter 06](https://www.notion.so/harikesh067/Chapter-06-241a186274a48075a658e7de5ca6081f?source=copy_link) : this chapter was focused on how to make the vanilla models robust with some preprocessing and framing techniques 
 
 -------
-
