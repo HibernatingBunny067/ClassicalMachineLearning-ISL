@@ -542,4 +542,3 @@ HighCardinality categorical values
        12. GarageCond
        13. Fence
        14. MiscFeature
-       15. 
