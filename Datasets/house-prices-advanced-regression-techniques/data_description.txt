@@ -521,3 +521,25 @@ SaleCondition: Condition of sale
        Alloca	Allocation - two linked properties with separate deeds, typically condo with a garage unit	
        Family	Sale between family members
        Partial	Home was not completed when last assessed (associated with New Homes)
+
+HighCardinality categorical values
+- Neighborhood
+- RoofStyle
+- Exterior1st
+- Exterior2nd
+'no' in features
+       1. Alley 
+       2. MasVnrType
+       3. BsmtQual
+       4. BsmtCond
+       5. BsmtExposure
+       6. BsmtFinType1
+       7. BsmtFinType2
+       8. FireplaceQu
+       9. GarageType
+       10. GarageFinish
+       11. GarageQual
+       12. GarageCond
+       13. Fence
+       14. MiscFeature
+       15. 
